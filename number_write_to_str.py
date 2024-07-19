@@ -5,7 +5,7 @@ if number == 1:
 elif number == 2:
     print("two")
 elif number == 3:
-    print("tree")
+    print("three")
 elif number == 4:
     print("four")
 elif number == 5:
