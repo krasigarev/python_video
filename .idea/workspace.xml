@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17716fcd-37c7-47e4-a179-2afa9d3d0ecf" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/shop_profit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,22 +50,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.compare_numbers.executor": "Run",
-    "Python.compare_word.executor": "Run",
-    "Python.day_dor_week.executor": "Run",
-    "Python.even_or_odd.executor": "Run",
-    "Python.hello.executor": "Run",
-    "Python.lica_na_figuri.executor": "Debug",
-    "Python.main.executor": "Debug",
-    "Python.number_100_200.executor": "Debug",
-    "Python.number_write_to_str.executor": "Debug",
-    "Python.password.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.compare_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.compare_word.executor&quot;: &quot;Run&quot;,
+    &quot;Python.day_dor_week.executor&quot;: &quot;Run&quot;,
+    &quot;Python.even_or_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lica_na_figuri.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.number_100_200.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.number_write_to_str.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shop_profit.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.shop_profit">
     <configuration name="day_dor_week" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -338,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721503137681</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1721504465521</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721504465522</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

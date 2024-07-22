@@ -2,6 +2,8 @@ import math
 
 figure = input().lower()
 
+area = None
+
 if figure == "square":
     side = float(input())
     area = side * side
