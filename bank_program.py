@@ -54,5 +54,5 @@ def main():
     print("Thank you! Heva a nice day!")
 
 
-if __name__=='__main__':
+if __name__ == '__main__':
     main()
