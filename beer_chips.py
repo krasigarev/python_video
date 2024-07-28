@@ -15,4 +15,3 @@ if budget >= total:
     print(f"{name} bought a snake and has {diff:.2f} leva left.")
 else:
     print(f'{name} needs {diff:.2f} more leva.')
-
